@@ -21,7 +21,7 @@
 
 .card-img-height{
   display: block;
-  width: auto;
-  height: 240px;
+  width: 350px;
+  height: 350px;
   object-fit: cover;
 }
