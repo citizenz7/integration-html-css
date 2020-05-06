@@ -20,22 +20,22 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="html.html">HTML</a>
+          <a class="nav-link" href="html.php">HTML</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="css.html">CSS</a>
+          <a class="nav-link" href="css.php">CSS</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="console.html">Command line</a>
+          <a class="nav-link" href="console.php">Command line</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="git.html">Git & Github</a>
+          <a class="nav-link" href="git.php">Git & Github</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="atom.html">Atom</a>
+          <a class="nav-link" href="atom.php">Atom</a>
         </li>
       </ul>
     </div>
