@@ -1,8 +1,27 @@
-#logo-acs{
+#logo-acs {
   width: 120px;
 }
-.img-card{
-  max-height: 250px;
-  max-width: 250px;
-  text-align: center;
+
+.card-img-top{
+  width: auto;
+  height: 150px;
+  margin: auto;
+}
+
+.card{
+  height: auto;
+  width: auto;
+}
+
+.card-text{
+  width:auto;
+  height: 150px;
+  overflow: hidden;
+}
+
+.card-img-height{
+  display: block;
+  width: auto;
+  height: 240px;
+  object-fit: cover;
 }
