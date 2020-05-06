@@ -3,7 +3,7 @@
 ?>
 
 <main>
-  Coucou !
+  Atom
 </main>
 
 <?php

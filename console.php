@@ -3,7 +3,7 @@
 ?>
 
 <main>
-  Coucou !
+  Console
 </main>
 
 <?php

@@ -3,7 +3,7 @@
 ?>
 
 <main>
-  Coucou !
+  CSS!
 </main>
 
 <?php
